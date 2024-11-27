@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 HELLO WORLD!
+=======
+HELLO WORLD
+This is Anurag
+>>>>>>> 349c648b79e6620a86704a37bae9ce01b02a8d55
